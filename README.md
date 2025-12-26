@@ -1,6 +1,4 @@
 
-muthuram06/`README.md`
-
 👋 Hi, I’m Muthu Ram V
 
 💻 Computer Science Engineering Student | Junior Full-Stack Developer
