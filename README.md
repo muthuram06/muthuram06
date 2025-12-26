@@ -1,5 +1,6 @@
 
-**muthuram06/muthuram06** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+muthuram06/`README.md`
+
 👋 Hi, I’m Muthu Ram V
 
 💻 Computer Science Engineering Student | Junior Full-Stack Developer
