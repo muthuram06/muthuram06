@@ -40,3 +40,16 @@ I'm a Computer Science and Engineering graduate passionate about building scalab
 ---
 
 ⭐ *Always learning, building, and improving.*
+
+
+
+---
+
+## 🏅 Open Source Contributions
+
+[![1st PR Merged - Kestra](https://img.shields.io/badge/1st%20PR%20MERGED-KESTRA-1F232C?style=for-the-badge&logo=github&logoColor=200062&labelColor=CDC5FF)](https://github.com/kestra-io/kestra/pull/21539)
+
+My first contribution to [Kestra](https://github.com/kestra-io/kestra) was merged!
+
+- **PR:** [#21539 — Replace Bootstrap utilities in docs TOC](https://github.com/kestra-io/kestra/pull/21539)
+- **Contribution:** Replaced Bootstrap utility classes with scoped SCSS and Kestra design tokens.
